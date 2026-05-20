@@ -1,4 +1,4 @@
-toml
 name = "rename"
 main = "worker.js"
 compatibility_date = "2026-05-20"
+node_compat = true 
