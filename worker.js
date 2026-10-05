@@ -25,6 +25,8 @@ export default {
 
       '/game': 'https://wheres-bluey.pages.dev/',
 
+      '/pollution' : 'https://pollution-e6o.pages.dev'
+
     };
 
 
